@@ -1,9 +1,10 @@
 **Titanic Dataset Cleaning and Machine Learning**
 
 This repository contains data cleaning, exploration, and machine learning steps for the Titanic dataset.
-**Project Overview**
-The goal of this project is to clean the Titanic dataset and build a predictive model. 
 
+**Project Overview**
+
+The goal of this project is to clean the Titanic dataset and build a predictive model. 
 The project prepares the data by filling missing entries based on passenger subgroups, drops unhelpful data, converts categories into clean numeric formats, and evaluates model performance using Logistic Regression.
 
 Built With Pandas: Organizes, cleans, filters, and analyzes data tables.
